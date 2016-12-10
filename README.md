@@ -6,4 +6,4 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 
 # see
 
-[http://zhangxiaoqing.win/index]
+[http://zhangxiaoqiang.win/index]
