@@ -4,7 +4,7 @@ subtitle: Without Soal
 email: 814663095@qq.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "http://zhangxiaoqiang.win/index" # the base hostname & protocol for your site
+url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author: Zhang Xiaoqiang
 street_address: Binjiang
 city: Hangzhou Zhejiang
