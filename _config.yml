@@ -5,13 +5,13 @@ email: 814663095@qq.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Zhang Xiaoqiang
+street_address: Binjiang
+city: Hangzhou Zhejiang
+state: China
+zip_code: 310053
+country: Shandong Linyi
+phone: 187****2341
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
