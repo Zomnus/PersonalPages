@@ -7,3 +7,5 @@ A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).
 # see
 
 [http://zhangxiaoqiang.win/index]
+
+# add to local 192.168.0.103
